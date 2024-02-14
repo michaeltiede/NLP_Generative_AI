@@ -12,11 +12,11 @@ Lastly, I generated phrases and paragraphs from the text data. I used bi-grams a
 
 Overall, this project I wanted to improve my skills in Natural Language Processing, ML model building, and AI tools. I plan to continue to improve the model pipeline and training to create morea insightful conclusions.
 
+
 ![image](https://github.com/michaeltiede/family_group_chat/assets/63974875/33852153-1b62-4034-b132-df4b909ab0f5)
 
+Word Cloud of most common words in the chat:
 <img width="1284" alt="Screen Shot 2024-02-14 at 5 05 42 PM" src="https://github.com/michaeltiede/family_group_chat/assets/63974875/c526db06-57be-4abe-9a32-e6105c529bcc">
-
-<img width="1284" alt="Screen Shot 2024-02-14 at 5 05 42 PM" src="https://github.com/michaeltiede/family_group_chat/assets/63974875/1057babc-2391-4185-a7a1-05b5aa7bc671">
 
 
 
