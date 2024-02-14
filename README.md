@@ -9,3 +9,6 @@ More advanced Natural Language Processing techniques were Latent Direllect Alloc
 Lastly, I generated phrases and paragraphs from the text data. I used bi-grams and tri-grams to generate the paragraphs. I started with tri-grams and then generated the most probable word to come next, once there was no tri-gram avaiable, it went to bi-grams to continue the paragraph. Was able to create interesting paragraphs with decent coherence and understanding!
 
 Overall, this project I wanted to improve my skills in Natural Language Processing, ML model building, and AI tools. I plan to continue to improve the model pipeline and training to create morea insightful conclusions.
+
+
+<img width="1356" alt="Screen Shot 2024-02-14 at 5 04 00 PM" src="https://github.com/michaeltiede/family_group_chat/assets/63974875/2a87fd45-ffad-46dd-a811-cacda2b710f2">
