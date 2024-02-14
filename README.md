@@ -1,5 +1,5 @@
 # family_group_chat
-Tiede family group chat Natural Language Processing. Exploratory Analysis, Sentiment Analysis, LDA topic modeling, and text generation
+Family group chat Natural Language Processing. Exploratory Analysis, Sentiment Analysis, LDA topic modeling, and text generation
 Please click 'Open in Colab' to view the Plotly interactive visualizations.
 
 <img width="1356" alt="Screen Shot 2024-02-14 at 5 04 00 PM" src="https://github.com/michaeltiede/family_group_chat/assets/63974875/2a87fd45-ffad-46dd-a811-cacda2b710f2">
