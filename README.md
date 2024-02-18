@@ -1,4 +1,4 @@
-# family_group_chat
+# NLP Generative AI: Family Group chat
 Family group chat Natural Language Processing. Exploratory Analysis, Sentiment Analysis, LDA topic modeling, and text generation
 Please click 'Open in Colab' to view the Plotly interactive visualizations.
 
