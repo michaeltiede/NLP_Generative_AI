@@ -1,6 +1,6 @@
 # NLP Generative AI: Family Group chat
 Family group chat: Natural Language Processing, Exploratory Analysis, Sentiment Analysis, LDA topic modeling, and text generation
-Please click 'Open in Colab' in .ipynb file to view the Plotly interactive visualizations. (May need to install packages "!pip install --insert package name--"
+Please click 'Open in Colab' in .ipynb file to view the Plotly interactive visualizations. (May need to install packages "!pip install --insert package name--")
 
 <img width="1356" alt="Screen Shot 2024-02-14 at 5 04 00 PM" src="https://github.com/michaeltiede/family_group_chat/assets/63974875/2a87fd45-ffad-46dd-a811-cacda2b710f2">
 
